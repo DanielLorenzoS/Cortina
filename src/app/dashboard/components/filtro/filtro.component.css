@@ -1,0 +1,18 @@
+.card {
+  height: 7vh;
+  margin: 15px;
+}
+.card-body {
+    height: 7vh;
+}
+.title {
+  color: #666;
+}
+.fecha {
+  margin-right: 25px;
+}
+
+mat-button-toggle {
+  line-height: 0;
+  margin: -10px 0;
+}

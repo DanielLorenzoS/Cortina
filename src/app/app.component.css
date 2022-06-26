@@ -1,0 +1,8 @@
+mat-drawer {
+  width: 14%;
+}
+mat-drawer-content {
+  background-color: #ddd;
+  padding-right: 40px;
+  height: 89vh;
+}

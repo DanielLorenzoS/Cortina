@@ -1,0 +1,8 @@
+
+mat-button-toggle-group {
+    display: flex;
+    flex-direction: column;
+}
+mat-button-toggle {
+    padding: 6px 35px;
+}
